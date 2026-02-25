@@ -1,7 +1,7 @@
 # 🚗 WHEELIFY – Vehicle Rental System API
 
-🔗 **Live API URL:*https://wheelify-smoky.vercel.app/*  
-🔗 **GitHub Repository:*https://github.com/faisalmahmudakash/wheelify*  
+🔗 Live API URL:*https://wheelify-smoky.vercel.app/*  
+🔗 GitHub Repository:*https://github.com/faisalmahmudakash/wheelify*  
 
 ---
 
